@@ -7,13 +7,14 @@
 - 📬 Feel free to reach out! (Just kidding, still figuring out how to be approachable 😅)
 
 ## 🔧 Skills & Technologies:
-- **Languages**: Python, JavaScript (beginner), C++
-- **Tools**: Git, GitHub, VSCode, Docker (learning)
-- **Frameworks/Technologies**: Flask (learning), Django, React (beginner)
+- **Languages**: Python, Java(beginner), C, HTML, CSS
+- **Tools**: Git, GitHub, VSCode
+- **Frameworks/Technologies**: Flask (newbie), Django, React (newbie)
   
 ## 🚀 What I'm Working On:
 - 💻 Building small projects to improve my skills.
 - 🌍 Exploring open-source contributions and collaborations.
+- working towards impactful innovations 
 
 ## 📫 How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/cloudie-rey/) (under construction)
@@ -27,4 +28,4 @@
 ---
 
 ## 🌟 Fun Fact:
-- I once coded a [small Python project](https://github.com/Cloudie-Rey/my-python-project) just to **randomly generate** motivational quotes. Still my proudest moment.
+- I like muay thai
