@@ -1,4 +1,4 @@
-# Hi, I'm @Cloudie 👋
+# Hi, I'm Cloudie 👋
 
 ## 👀 About Me:
 - 🔧 **Engineering & Computer Science enthusiast** with an interest in business.
