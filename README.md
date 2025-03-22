@@ -9,8 +9,8 @@
 ## 🛠️ Tech Stack  
 - **Languages:** Python, Java, C, HTML, CSS, JavaScript  
 - **Frameworks & Tools:** Flask, Django, React (beginner), Git, VSCode  
-- **Hardware & Systems:** Arduino, Raspberry Pi, 3D Printing, Sensor Data Processing  
-- **Interests:** AI, Embedded Systems, Robotics, Hardware-Software Integration  
+- **Hardware & Systems:** Arduino, Raspberry Pi, 3D Printing, Embedded Systems, Mechanical Movement  
+- **Interests:** AI, Robotics, Sensor Data Processing, Hardware-Software Integration  
 
 ## 🔨 Current Projects  
 - 🚀 **Building:** Small projects to sharpen my skills in AI & embedded systems  
@@ -18,7 +18,7 @@
 - 🎯 **Goal:** Work on impactful tech innovations  
 
 ## 📫 Connect With Me  
-- 🌐 [LinkedIn](www.linkedin.com/in/reyaa-divakar-317143284) *(under construction, but feel free to follow!)*  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/reyaa-divakar-317143284/)  
 - 💻 [GitHub](https://github.com/Cloudie-Rey)  
 
 ---
@@ -30,4 +30,5 @@
 
 ## 🌟 Fun Fact  
 - 🥋 I practice **Muay Thai**—because sometimes debugging isn’t enough of a challenge!  
+
 
