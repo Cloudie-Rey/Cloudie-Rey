@@ -18,7 +18,7 @@
 - 🎯 **Goal:** Work on impactful tech innovations  
 
 ## 📫 Connect With Me  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cloudie-rey/) *(under construction, but feel free to follow!)*  
+- 🌐 [LinkedIn](www.linkedin.com/in/reyaa-divakar-317143284) *(under construction, but feel free to follow!)*  
 - 💻 [GitHub](https://github.com/Cloudie-Rey)  
 
 ---
