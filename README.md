@@ -7,8 +7,7 @@
 - 💡 Always open to new ideas, collaborations, and learning opportunities!  
 
 ## 🛠️ Tech Stack  
-- **Languages:** Python, Java, C, HTML, CSS, JavaScript  
-- **Frameworks & Tools:** Flask, Django, React (beginner), Git, VSCode  
+- **Languages:** Python, Java, C, HTML, CSS, JavaScript    
 - **Hardware & Systems:** Arduino, Raspberry Pi, 3D Printing, Embedded Systems, Mechanical Movement  
 - **Interests:** AI, Robotics, Sensor Data Processing, Hardware-Software Integration  
 
@@ -29,6 +28,6 @@
 ---
 
 ## 🌟 Fun Fact  
-- 🥋 I practice **Muay Thai**—because sometimes debugging isn’t enough of a challenge!  
+- 🥋 I practice **Muay Thai** and **rugby**
 
 
