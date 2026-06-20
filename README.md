@@ -28,6 +28,6 @@
 ---
 
 ## 🌟 Fun Fact  
-- 🥋 I practice **Muay Thai** and **rugby**
+- I enjoy **Content Creation** and **rugby**!
 
 
