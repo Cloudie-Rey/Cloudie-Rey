@@ -1,6 +1,6 @@
 # Reyaa Divakar (Cloudie-Rey) — Robotics, Embedded Systems & AI Developer ☁️✨
 
-Hi, I'm **Reyaa Divakar** (also known as **Cloudie**), a Computer Science and Engineering developer specializing in **robotics, embedded systems, machine learning, and full-stack software development**. I build hardware-software integrations, sensor data pipelines, and open-source engineering projects.
+Hi, I'm **Reyaa Divakar** (also known as **Cloudie**), a Mech-E Engineering Student specializing in **robotics, embedded systems, machine learning, and full-stack software development**. I build hardware-software integrations, sensor data pipelines, and open-source engineering projects.
 
 ---
 
